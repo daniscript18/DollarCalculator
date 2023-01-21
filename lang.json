@@ -1,0 +1,30 @@
+{
+    "es": {
+        "lang": "Español",
+        "text": {
+            "option1_input": "Calcular cantidad bolívares equivalente de una cantidad de dólares",
+            "option2_input": "Calcular cantidad dólares equivalente de una cantidad de bolívares",
+            "selection_option": "Selecciona una opción",
+            "if_option1_input": "Ingresa la cantidad de dólares", 
+            "if_option2_input": "Ingresa la cantidad de bolívares",
+            "dollars": "dólares",
+            "bolivars": "bolívares",
+            "equals": "equivale",
+            "invalid_option": "Opción inválida"
+        }
+    },
+    "en": {
+        "lang": "English",
+        "text": {
+            "option1_input": "Calculate how many bolivars equals an amount of dollars",
+            "option2_input": "Calculate how many dollars equals an amount of bolivars",
+            "selection_option": "Select option",
+            "if_option1_input": "Enter the dollar amount",
+            "if_option2_input": "Enter the bolivars amount",
+            "dollars": "dollars",
+            "bolivars": "bolivars",
+            "equals": "equals",
+            "invalid_option": "Invalid option"
+        }
+    }
+}
